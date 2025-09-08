@@ -32,7 +32,7 @@ class FizzBuzz {
 //            }
 //        }
 //    }
-    //funny update
+    //funny update 2
     public static void main(String[] args) {
         Fizz();
     }
